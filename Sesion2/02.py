@@ -1,20 +1,18 @@
 
 # borra toda ocurrencia de a
-a = 10
-b = 25
+a1 = 10
+b1 = 25
 # borra toda ocurrencia de c
-c = 30 
+c1 = 30 
 
-d = a + b
-e = b + c
-f = b + 1.5
+e1 = b1 + c1
+f1 = b1 + 1.5
 
-print(a)
-print(b)
-print(c)
-print(d)
-print(e)
-print(f)
+print(a1)
+print(b1)
+print(c1)
+print(e1)
+print(f1)
 
 """ 
 Atajo:

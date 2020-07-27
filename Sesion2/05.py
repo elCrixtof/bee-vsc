@@ -11,7 +11,7 @@ print(d)
 
 """ 
 Objetivo:
-    Ocultar Mostrar terminal
+    Mostrar terminal
     
     tips:
     ⌃ `
